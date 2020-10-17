@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/prajwalkpatil/prajwalkpatil/main/banner.jpg)
+![Banner Image](https://raw.githubusercontent.com/prajwalkpatil/prajwalkpatil/main/resources/banner.jpg)
 <!--
 **prajwalkpatil/prajwalkpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
